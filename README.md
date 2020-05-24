@@ -1,2 +1,2 @@
 
- counting algorithm for raspberry pi
+ counting 2 algorithm for raspberry pi
